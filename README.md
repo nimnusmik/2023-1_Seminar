@@ -53,6 +53,11 @@
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=orange" />
 </div>
 
+<div align="center">
+	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
+	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
+</div>
+
 # 학회 정보
 
 * Notion: https://lavish-seer-f30.notion.site/DAT-1-84edb61331854dc9a83556fea08680cf
