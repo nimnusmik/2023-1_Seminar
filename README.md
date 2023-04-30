@@ -20,7 +20,9 @@
 
 # 팀 구성
 * 데이터분석 기초&시각화: 데이터분석을 위한 기초 문법 학습과 다양한 시각화 툴 실습을 통해 고차원적 분석을 위한 기초 역량을 함양
+
 * 전처리&머신러닝 기초: 다양한 전처리 방법과 회귀, 분류의 다양한 알고리즘 학습 및 실습을 통한 데이터 사이언스 역량 함양
+
 * 논문 스터디&작성: 고차원적 분석이 이루어진 논문을 팀원들과 학습하고 지도교수님과 논문 작성
 
 |팀명|활동 내용|구성원|
@@ -50,3 +52,11 @@
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=orange" />
 </div>
+
+# 학회 정보
+
+* Notion: https://lavish-seer-f30.notion.site/DAT-1-84edb61331854dc9a83556fea08680cf
+
+* Instagram: https://www.instagram.com/dat.hufs/
+
+* Naver Cafe: https://cafe.naver.com/hufsdat
