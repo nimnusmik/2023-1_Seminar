@@ -1,8 +1,8 @@
-# 2023-1_Seminar
+## 2023-1_Seminar
 2023년 개설된 경상대 소속 데이터분석 학회 DAT(Data Analysis & Technology)입니다.
 
-
-# Syllabus
+***
+## Syllabus
 
 |일자|활동내역|비고|
 |---|---|---|
@@ -17,13 +17,19 @@
 |2023/6/01|프로젝트 발표|백년관 국제세미나실|
 
 
+***
+## 팀 구성
+> Team 데이터분석 기초&시각화
+> 
+> 데이터분석을 위한 기초 문법 학습과 다양한 시각화 툴 실습을 통해 고차원적 분석을 위한 기초 역량을 함양
 
-# 팀 구성
-* 데이터분석 기초&시각화: 데이터분석을 위한 기초 문법 학습과 다양한 시각화 툴 실습을 통해 고차원적 분석을 위한 기초 역량을 함양
+> Team 전처리&머신러닝 기초
+> 
+> 다양한 전처리 방법과 회귀, 분류의 다양한 알고리즘 학습 및 실습을 통한 데이터 사이언스 역량 함양
 
-* 전처리&머신러닝 기초: 다양한 전처리 방법과 회귀, 분류의 다양한 알고리즘 학습 및 실습을 통한 데이터 사이언스 역량 함양
-
-* 논문 스터디&작성: 고차원적 분석이 이루어진 논문을 팀원들과 학습하고 지도교수님과 논문 작성
+> Team 논문 스터디&작성
+> 
+> 고차원적 분석이 이루어진 논문을 팀원들과 학습하고 지도교수님과 논문 작성
 
 |팀명|활동 내용|구성원|
 |---|---|----------|
@@ -35,14 +41,18 @@
 
 팀장: 권누리별, 조윤진, 김선민, 하수연, 김협
 
-# 운영진
+***
+
+## 운영진
 학회장: 전영준(GBT 18)
 
 부학회장: 김선민(GBT 20)
 
 운영진: 김협(통계학과 20), 이예진(경제학과 19), 하수연(GBT 20)
 
-# Tools
+***
+
+## Tools
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=yellow" />
 	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
@@ -58,10 +68,13 @@
 	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
 </div>
 
-# 학회 정보
+***
+
+## 학회 정보
 
 * Notion: https://lavish-seer-f30.notion.site/DAT-1-84edb61331854dc9a83556fea08680cf
 
 * Instagram: https://www.instagram.com/dat.hufs/
 
 * Naver Cafe: https://cafe.naver.com/hufsdat
+
