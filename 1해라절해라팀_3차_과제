@@ -112,3 +112,57 @@ df=pd.read_csv('score.csv', nrows=4) #지정된 개수 만큼의 raw만 가져�
 df
 df=pd.read_csv('score.csv', skiprows=2,nrows=4) #처음 2raw 무시, 이후에 4raw를 가져옴
 df
+df = pd.read_csv('score.txt', sep='\t')
+df
+
+df = pd.read_csv('score.txt', sep='\t', index_col='지원번호')
+df
+
+#16
+df = pd.read_csv('score.txt', sep='\t')
+df.set_index ('지원번호',inplace = True)
+df
+
+#엑셀 열기
+df = pd.read_excel('score.xlsx')
+df
+
+df = pd.read_excel('score.xlsx', index_col='지원번호')
+df
+
+#5.데이터 확인
+import pandas as pn
+df = pd.read_excel('score.xlsx', index_col='지원번호')
+df
+
+df.describe()
+
+df.info()
+
+df.head()
+
+df.tail()
+
+df.tail(3)
+
+df.values
+
+df.index
+
+df.columns
+
+df.shape
+
+df
+
+#Series 확인
+df['키'].describe()
+df['키'].min()
+df['키'].max()
+df['키'].nlargest(3)
+df['키'].mean()
+df['키'].sum()
+df['S\특기'].count()
+df['학교'].unique()
+df['학교'].nunique()
+
