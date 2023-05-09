@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=146E7A&height=300&section=header&text=HUFS%20DAT&fontSize=90" />
+
 ## 2023-1_Seminar
 2023년 개설된 경상대 소속 데이터분석 학회 DAT(Data Analysis & Technology)입니다.
 
